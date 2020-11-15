@@ -19,6 +19,10 @@ summary(cars)
 # testing to edit
 ## Including Plots
 
+#accept this one
+
+
+
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
