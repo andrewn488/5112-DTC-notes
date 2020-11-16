@@ -1,0 +1,15 @@
+# data translation project
+# author: Andrew Nalundasan
+# team: Arunima Roy, Brian Hsu
+# for: OMSBA 5112, Seattle University
+# date: 11/20/2020
+
+
+# load libraries
+library(tidyverse)
+library(haven)
+
+# read a dta file:
+sec0a <- read_dta("02_raw_data/sec0a.dta")
+View(sec0a)
+summary(sec0a)

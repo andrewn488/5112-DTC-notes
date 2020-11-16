@@ -1,0 +1,5 @@
+"0","# read a dta file:
+sec0a <- read_dta(""02_raw_data/sec0a.dta"")
+"
+"2","Error: '02_raw_data/sec0a.dta' does not exist in current working directory ('C:/Users/analundasan/OneDrive - ARCADIS/SU/OMSBA 5112/Data-Translation-Project/01_code').
+"

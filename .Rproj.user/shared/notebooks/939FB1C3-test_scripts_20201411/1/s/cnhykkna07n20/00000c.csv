@@ -1,0 +1,4 @@
+"0","sec0a <- read_dta(""sec0a.dta"")
+"
+"2","Error: 'sec0a.dta' does not exist in current working directory ('C:/Users/analundasan/OneDrive - ARCADIS/SU/OMSBA 5112/data_translation_20201114/01_code').
+"
